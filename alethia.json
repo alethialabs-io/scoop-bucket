@@ -1,19 +1,19 @@
 {
-    "version": "cli-v0.3.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alethialabs-io/alethialabs/releases/download/cli-v0.3.0/alethia_Windows_x86_64.zip",
+            "url": "https://github.com/alethialabs-io/alethia-cli/releases/download/v0.3.0/alethia_Windows_x86_64.zip",
             "bin": [
                 "alethia.exe"
             ],
-            "hash": "a0b0968191668c141902a12adf56f052b6e1afc05d1f120b75cf58b97939b64a"
+            "hash": "2b766ef8e7162accf21dfdd667038c1078641db0eb0390133f4adfbe23e4b347"
         },
         "arm64": {
-            "url": "https://github.com/alethialabs-io/alethialabs/releases/download/cli-v0.3.0/alethia_Windows_arm64.zip",
+            "url": "https://github.com/alethialabs-io/alethia-cli/releases/download/v0.3.0/alethia_Windows_arm64.zip",
             "bin": [
                 "alethia.exe"
             ],
-            "hash": "0200c8eb43603b059d0a6049f641c7dad7b8200535a1ba1c8f673aa7321438c8"
+            "hash": "5ba89f7a9bc80f9067730b621c2ffeec2a0eeaf6247e33548453ad7ab36a4bb8"
         }
     },
     "homepage": "https://alethialabs.io",
